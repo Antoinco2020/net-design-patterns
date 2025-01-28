@@ -1,0 +1,15 @@
+C:\Users\ainco\Desktop\Progetti\DesignPatterns\net-design-patterns\ML Integration Pattern\ML Integration Pattern\bin\Debug\net9.0\ML Integration Pattern.exe
+C:\Users\ainco\Desktop\Progetti\DesignPatterns\net-design-patterns\ML Integration Pattern\ML Integration Pattern\bin\Debug\net9.0\ML Integration Pattern.deps.json
+C:\Users\ainco\Desktop\Progetti\DesignPatterns\net-design-patterns\ML Integration Pattern\ML Integration Pattern\bin\Debug\net9.0\ML Integration Pattern.runtimeconfig.json
+C:\Users\ainco\Desktop\Progetti\DesignPatterns\net-design-patterns\ML Integration Pattern\ML Integration Pattern\bin\Debug\net9.0\ML Integration Pattern.dll
+C:\Users\ainco\Desktop\Progetti\DesignPatterns\net-design-patterns\ML Integration Pattern\ML Integration Pattern\bin\Debug\net9.0\ML Integration Pattern.pdb
+C:\Users\ainco\Desktop\Progetti\DesignPatterns\net-design-patterns\ML Integration Pattern\ML Integration Pattern\obj\Debug\net9.0\ML Integration Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ainco\Desktop\Progetti\DesignPatterns\net-design-patterns\ML Integration Pattern\ML Integration Pattern\obj\Debug\net9.0\ML Integration Pattern.AssemblyInfoInputs.cache
+C:\Users\ainco\Desktop\Progetti\DesignPatterns\net-design-patterns\ML Integration Pattern\ML Integration Pattern\obj\Debug\net9.0\ML Integration Pattern.AssemblyInfo.cs
+C:\Users\ainco\Desktop\Progetti\DesignPatterns\net-design-patterns\ML Integration Pattern\ML Integration Pattern\obj\Debug\net9.0\ML Integration Pattern.csproj.CoreCompileInputs.cache
+C:\Users\ainco\Desktop\Progetti\DesignPatterns\net-design-patterns\ML Integration Pattern\ML Integration Pattern\obj\Debug\net9.0\ML Integration Pattern.sourcelink.json
+C:\Users\ainco\Desktop\Progetti\DesignPatterns\net-design-patterns\ML Integration Pattern\ML Integration Pattern\obj\Debug\net9.0\ML Integration Pattern.dll
+C:\Users\ainco\Desktop\Progetti\DesignPatterns\net-design-patterns\ML Integration Pattern\ML Integration Pattern\obj\Debug\net9.0\refint\ML Integration Pattern.dll
+C:\Users\ainco\Desktop\Progetti\DesignPatterns\net-design-patterns\ML Integration Pattern\ML Integration Pattern\obj\Debug\net9.0\ML Integration Pattern.pdb
+C:\Users\ainco\Desktop\Progetti\DesignPatterns\net-design-patterns\ML Integration Pattern\ML Integration Pattern\obj\Debug\net9.0\ML Integration Pattern.genruntimeconfig.cache
+C:\Users\ainco\Desktop\Progetti\DesignPatterns\net-design-patterns\ML Integration Pattern\ML Integration Pattern\obj\Debug\net9.0\ref\ML Integration Pattern.dll
